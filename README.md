@@ -41,6 +41,8 @@ Venha se divertir no jogo e mostrar todo seu conhecimento aqui! Venha jogar o Ga
 
 * [Diagrama de Classes do sistema.](#diagrama-de-classes-do-sistema)
 
+   ![](https://github.com/Game-Quiz/Documentacao/blob/main/Diagrama%20de%20Classe.jpg)
+  
 
 * [Modelo Entidade Relacionamento da base de dados do sistema.](#modelo-entidade-relacional)
 
