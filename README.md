@@ -37,6 +37,8 @@ Venha se divertir no jogo e mostrar todo seu conhecimento aqui! Venha jogar o Ga
 
 
 * [Diagrama de Casos de uso do sistema.](#diagrama-caso-de-uso)
+
+    ![](https://github.com/Game-Quiz/Documentacao/blob/main/Untitled%20Diagram-Page-5.drawio%20(1).png)
  
 
 * [Diagrama de Classes do sistema.](#diagrama-de-classes-do-sistema)
