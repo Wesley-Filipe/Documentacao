@@ -25,6 +25,8 @@ Venha se divertir no jogo e mostrar todo seu conhecimento aqui! Venha jogar o Ga
  
 
 * [Cronograma previsto](#cronograma)
+
+  [Link de acesso ao site](https://www.notion.so/Trabalho-Final-A3-ac22bb50ea96402b9789fa42a1f10755)
  
 
 * [Colaboradores](#colaboradores)
