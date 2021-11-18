@@ -52,3 +52,6 @@ Venha se divertir no jogo e mostrar todo seu conhecimento aqui! Venha jogar o Ga
 
 
 * [Modelo Relacional da base de dados do sistema.](#modelo-relacional)
+
+  ![](https://github.com/Game-Quiz/Documentacao/blob/main/WhatsApp%20Image%202021-11-18%20at%2000.07.41.jpeg)
+
