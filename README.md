@@ -48,22 +48,22 @@ Venha se divertir no jogo e mostrar todo seu conhecimento aqui! Venha jogar o Ga
 * [Sprints](#sprints)
 
 
-* [Diagrama de Casos de uso do sistema.](#diagrama-caso-de-uso)
+* [Diagrama de Casos de Uso do Sistema.](#diagrama-caso-de-uso)
 
     ![](https://github.com/Game-Quiz/Documentacao/blob/main/Untitled%20Diagram-Page-5.drawio%20(1).png)
  
 
-* [Diagrama de Classes do sistema.](#diagrama-de-classes-do-sistema)
+* [Diagrama de Classes do Sistema.](#diagrama-de-classes-do-sistema)
 
    ![](https://github.com/Game-Quiz/Documentacao/blob/main/Diagrama%20de%20Classe.jpg)
   
 
-* [Modelo Entidade Relacionamento da base de dados do sistema.](#modelo-entidade-relacional)
+* [Modelo Entidade Relacionamento da Base de Dados do Sistema.](#modelo-entidade-relacional)
 
    ![](https://github.com/Game-Quiz/Documentacao/blob/main/WhatsApp%20Image%202021-11-18%20at%2000.02.50.jpeg)
 
 
-* [Modelo Relacional da base de dados do sistema.](#modelo-relacional)
+* [Modelo Relacional da Base de Dados do Sistema.](#modelo-relacional)
 
   ![](https://github.com/Game-Quiz/Documentacao/blob/main/WhatsApp%20Image%202021-11-18%20at%2000.07.41.jpeg)
 
